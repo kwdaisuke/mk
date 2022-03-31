@@ -1,0 +1,67 @@
+site_name: Babushka
+
+theme:
+  name: material
+  locale: fr
+  language: en
+  palette:
+    primary: brown
+
+  markdown_extensions:
+  - attr_list
+  - md_in_html
+
+# Repository
+repo_name: kwdaisuke/kwdaisuke.github.io
+repo_url: https://github.com/kwdaisuke/kwdaisuke.github.io
+edit_uri: ""
+
+# Copyright
+copyright: Copyright &copy; 2016 - 2022 Daisuke Kuwabara
+
+# Tree
+nav:
+  - Home: index.md
+  - Course: course.md
+  - Blog:
+    - Data Engineer: blog.md
+  - About Daisuke Kuwabara: daisuke.md
+
+
+# Customization
+extra:
+  analytics: 
+    provider: google
+    property: G-180F37E220
+    feedback:
+      title: Was this page helpful?
+      ratings:
+        - icon: material/emoticon-happy-outline
+          name: This page was helpful
+          data: 1
+          note: >-
+            Thanks for your feedback!
+        - icon: material/emoticon-sad-outline
+          name: This page could be improved
+          data: 0
+          note: >- 
+            Thanks for your feedback! Help us improve this page by
+            using our <a href="..." target=_blank>feedback form</a>.
+
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/kwdaisuke
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/daisuke-kuwabara-5b821519b/
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/babushka_tech
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/emi_ndk
+  alternate:
+    - name: English
+      link: /en/ 
+      lang: en
+    - name: 日本語
+      link: /ja/
+      lang: ja
+
