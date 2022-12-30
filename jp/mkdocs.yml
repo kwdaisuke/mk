@@ -54,7 +54,7 @@ extra:
       link: https://www.instagram.com/emi_ndk
   alternate:
     - name: English
-      link: /en/
+      link: /en/ 
       lang: en
     - name: 日本語
       link: /jp/
