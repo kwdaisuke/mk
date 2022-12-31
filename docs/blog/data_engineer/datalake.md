@@ -1,0 +1,5 @@
+Three-layer structure of data analysis platform
+A data analysis platform is a system for integrating and utilizing big data. In general, a three-tiered structure of data lake, data warehouse, and data mart is often adopted as a system configuration.
+
+Data Lake Tier (DL)
+A data lake can process structured data (table data, etc.), unstructured data (image, audio, video data, application logs, etc.), and semi-structured data (JSON, CSV, etc.) from various data sources. It's a place to keep things as they are. Even if there is an error in the contents of the data, it is aggregated as it is without correction. Data structures and schemas are not defined when data is stored, so data can be stored without the hassle of structuring. Even if the use of the data is not decided at this time, it will be accumulated in the data lake.

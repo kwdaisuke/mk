@@ -1,8 +1,138 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
-         <loc>None</loc>
-         <lastmod>2022-04-07</lastmod>
+         <loc>None./</loc>
+         <lastmod>2022-12-31</lastmod>
          <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/"/>
+         <xhtml:link rel="alternate" hreflang="jp" href="Nonejp/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/"/>
+         
+    </url>
+    <url>
+         <loc>Nonecourse/</loc>
+         <lastmod>2022-12-31</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/course/"/>
+         <xhtml:link rel="alternate" hreflang="jp" href="Nonejp/course/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/course/"/>
+         
+    </url>
+    <url>
+         <loc>Nonedaisuke/</loc>
+         <lastmod>2022-12-31</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/daisuke/"/>
+         <xhtml:link rel="alternate" hreflang="jp" href="Nonejp/daisuke/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/daisuke/"/>
+         
+    </url>
+    <url>
+         <loc>Noneblog/airflow/</loc>
+         <lastmod>2022-12-31</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/blog/airflow/"/>
+         <xhtml:link rel="alternate" hreflang="jp" href="Nonejp/blog/airflow/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/blog/airflow/"/>
+         
+    </url>
+    <url>
+         <loc>Noneblog/babushka/</loc>
+         <lastmod>2022-12-31</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/blog/babushka/"/>
+         <xhtml:link rel="alternate" hreflang="jp" href="Nonejp/blog/babushka/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/blog/babushka/"/>
+         
+    </url>
+    <url>
+         <loc>Noneblog/beam/</loc>
+         <lastmod>2022-12-31</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/blog/beam/"/>
+         <xhtml:link rel="alternate" hreflang="jp" href="Nonejp/blog/beam/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/blog/beam/"/>
+         
+    </url>
+    <url>
+         <loc>Noneblog/kubeflow/</loc>
+         <lastmod>2022-12-31</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/blog/kubeflow/"/>
+         <xhtml:link rel="alternate" hreflang="jp" href="Nonejp/blog/kubeflow/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/blog/kubeflow/"/>
+         
+    </url>
+    <url>
+         <loc>Noneblog/tft_beam/</loc>
+         <lastmod>2022-12-31</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/blog/tft_beam/"/>
+         <xhtml:link rel="alternate" hreflang="jp" href="Nonejp/blog/tft_beam/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/blog/tft_beam/"/>
+         
+    </url>
+    <url>
+         <loc>Noneblog/data_engineer/data_engineer/</loc>
+         <lastmod>2022-12-31</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/blog/data_engineer/data_engineer/"/>
+         <xhtml:link rel="alternate" hreflang="jp" href="Nonejp/blog/data_engineer/data_engineer/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/blog/data_engineer/data_engineer/"/>
+         
+    </url>
+    <url>
+         <loc>Noneblog/data_engineer/data_mesh/</loc>
+         <lastmod>2022-12-31</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/blog/data_engineer/data_mesh/"/>
+         <xhtml:link rel="alternate" hreflang="jp" href="Nonejp/blog/data_engineer/data_mesh/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/blog/data_engineer/data_mesh/"/>
+         
+    </url>
+    <url>
+         <loc>Noneblog/data_engineer/datalake/</loc>
+         <lastmod>2022-12-31</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/blog/data_engineer/datalake/"/>
+         <xhtml:link rel="alternate" hreflang="jp" href="Nonejp/blog/data_engineer/datalake/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/blog/data_engineer/datalake/"/>
+         
+    </url>
+    <url>
+         <loc>Nonebreakroom/break/</loc>
+         <lastmod>2022-12-31</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/breakroom/break/"/>
+         <xhtml:link rel="alternate" hreflang="jp" href="Nonejp/breakroom/break/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/breakroom/break/"/>
+         
+    </url>
+    <url>
+         <loc>Nonebreakroom/france/</loc>
+         <lastmod>2022-12-31</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/breakroom/france/"/>
+         <xhtml:link rel="alternate" hreflang="jp" href="Nonejp/breakroom/france/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/breakroom/france/"/>
+         
+    </url>
+    <url>
+         <loc>Nonebreakroom/japan/</loc>
+         <lastmod>2022-12-31</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/breakroom/japan/"/>
+         <xhtml:link rel="alternate" hreflang="jp" href="Nonejp/breakroom/japan/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/breakroom/japan/"/>
+         
+    </url>
+    <url>
+         <loc>Nonebreakroom/turkey/</loc>
+         <lastmod>2022-12-31</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/breakroom/turkey/"/>
+         <xhtml:link rel="alternate" hreflang="jp" href="Nonejp/breakroom/turkey/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/breakroom/turkey/"/>
+         
     </url>
 </urlset>

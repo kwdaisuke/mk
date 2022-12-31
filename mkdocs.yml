@@ -1,8 +1,8 @@
-site_name: My Docs
-# Project information
 site_name: Babushka ML
-site_author: Daisuke Kuwabara
 
+
+# Project information
+site_author: Daisuke Kuwabara
 # Repository
 repo_name: kwdaisuke/kwdaisuke.github.io
 repo_url: https://github.com/kwdaisuke/kwdaisuke.github.io
@@ -14,17 +14,14 @@ copyright: Copyright &copy; 2016 - 2022 Daisuke Kuwabara
 # Configuration
 theme:
   name: material
-  locale: fr
-  language: en
   palette:
     primary: brown
   features:
-    - navigation.tabs 
+    - navigation.tabs
     - toc.integrate
     - header.autohide
 
-extra_javascript:
-  - javascripts/feedback.js
+
   
 
 # Customization
@@ -52,13 +49,19 @@ extra:
       link: https://twitter.com/babushka_ml
     - icon: fontawesome/brands/instagram
       link: https://www.instagram.com/emi_ndk
-  alternate:
-    - name: English
-      link: /en/
-      lang: en
-    - name: 日本語
-      link: /jp/
-      lang: jp
+plugins:
+  - i18n:
+      default_language: en
+      languages:
+        en:
+          name: English
+          build: true
+        jp: 
+          name: Japanese
+          build: true
+        fr:
+          name: Français
+          build: true
 
 # Extensions
 markdown_extensions:
@@ -77,8 +80,12 @@ nav:
   - Course: course.md
   - Blog:
     - Why Babushka?: blog/babushka.md
-    - Data Engineer: blog/data_engineer.md
+    - Data Engineer: 
+        Data Engineer: blog/data_engineer/data_engineer.md
+        Data Mesh: blog/data_engineer/data_mesh.md
+    - Kubeflow: blog/kubeflow.md
     - Airflow: blog/airflow.md
+    - Beam: blog/beam.md
     - Using Tensorflow Transform in Apache Beam: blog/tft_beam.md
   - Break Room: 
     - Find your ideal place: breakroom/break.md
@@ -86,4 +93,4 @@ nav:
     - Living in Turkey: breakroom/turkey.md
     - Living in France: breakroom/france.md
   - About Daisuke Kuwabara: daisuke.md
-
+                                   # Set language for search

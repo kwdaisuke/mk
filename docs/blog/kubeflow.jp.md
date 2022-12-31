@@ -1,0 +1,31 @@
+Kubeflow Pipelinesのコンセプト
+
+
+Pipeline
+KFPの文脈でPipelineとは有向非巡回グラフ（DAG）で定義された一連の機械学習ワークフローのことです。 KFPではPythonを使って、Pipelineの実行内容、入力（パラメータ）を定義します。定義したPipelineはWeb UIを使ってアップロードし、組織内で共有することができます。
+
+Component
+ComponentはPipelineで実行される1つの処理の単位をさします。例えば、データの前処理や加工、モデルの学習などがこれにあたります。DAGグラフで表すと各ノードがComponentにあたります。 それぞれのComponentはDockerコンテナとしてKubernetes上で実行されます。そのため、同一のプロセスで実行されないことなどには注意が必要です。
+
+Componentの定義について
+KFPでComponentを作成する方法は複数ありますが、いずれも最終的にはYaml形式に変換されます。このYaml形式の状態をComponentの定義 （Definition） と呼びます。Componentの定義は以下の3つを含みます。
+
+Metadata: コンポーネントの名前や説明
+Interface: 入力と出力（名前、データ型、デフォルト値など）
+Implementation: 処理の内容
+詳細に関しては公式ドキュメントをご覧ください。
+
+Experiment
+ExperimentはWeb UIからアクセスできるワークスペースを指します。Experimentでは設定を変えたPipelineの実行などを行うことができます。
+
+RunとRecurring Run
+RunはPipelineの実行単位です。Web UIからPipelineのステータスや実行時のログなどを確認することができます。 Recurring Runは定期的に実行されるRunです。Kubernetes CronJobをバックエンドとして利用しており、実行時刻などをWeb UIから定義しています。
+
+Artifact
+ArtifactはComponentの実行によって出力を示します。KubeflowはArtifactの種類によって、適切な可視化をUIで提供してくれます。
+
+ML Metadata
+KFPのバックエンドはPipelineの実行環境の情報をMetadata Storeに保存します。この情報にはタスクのステータスやArtifactの情報、実行時のパラメータなどを含みます。詳しく公式ドキュメントををご参考ください。
+
+参照
+Concepts - Kubeflow Pipelines Docs
