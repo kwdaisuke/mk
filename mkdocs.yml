@@ -78,6 +78,16 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Course: course.md
+  - Biblio: 
+      Main: Biblio/biblio.md
+      Python:
+        Introduction: Biblio/Python/introduction.md
+      Data Structure: Biblio/DataStructure/ds.md
+      SoftWare Engineering:
+        API: Biblio/SoftwareEngineering/api.md
+        Object Oriented Programming: Biblio/SoftwareEngineering/oop.md
+      Mathematics:
+        KLDivergence: Biblio/Mathematics/KL_divergence.md
   - Blog:
     - Why Babushka?: blog/babushka.md
     - Data Engineer: 
