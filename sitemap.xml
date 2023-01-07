@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+         <loc>None./</loc>
+         <lastmod>2023-01-07</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/"/>
+         <xhtml:link rel="alternate" hreflang="jp" href="Nonejp/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/"/>
+         
+    </url>
+    <url>
+         <loc>Nonecourse/</loc>
+         <lastmod>2023-01-07</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/course/"/>
+         <xhtml:link rel="alternate" hreflang="jp" href="Nonejp/course/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/course/"/>
+         
+    </url>
+    <url>
+         <loc>Nonedaisuke/</loc>
+         <lastmod>2023-01-07</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/daisuke/"/>
+         <xhtml:link rel="alternate" hreflang="jp" href="Nonejp/daisuke/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/daisuke/"/>
+         
+    </url>
+    <url>
+         <loc>NoneBiblio/biblio/</loc>
+         <lastmod>2023-01-07</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/Biblio/biblio/"/>
+         <xhtml:link rel="alternate" hreflang="jp" href="Nonejp/Biblio/biblio/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/Biblio/biblio/"/>
+         
+    </url>
+    <url>
+         <loc>NoneBiblio/DataStructure/ds/</loc>
+         <lastmod>2023-01-07</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/Biblio/DataStructure/ds/"/>
+         <xhtml:link rel="alternate" hreflang="jp" href="Nonejp/Biblio/DataStructure/ds/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/Biblio/DataStructure/ds/"/>
+         
+    </url>
+    <url>
+         <loc>NoneBiblio/Mathematics/KL_divergence/</loc>
+         <lastmod>2023-01-07</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/Biblio/Mathematics/KL_divergence/"/>
+         <xhtml:link rel="alternate" hreflang="jp" href="Nonejp/Biblio/Mathematics/KL_divergence/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/Biblio/Mathematics/KL_divergence/"/>
+         
+    </url>
+    <url>
+         <loc>NoneBiblio/Python/advanced/</loc>
+         <lastmod>2023-01-07</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/Biblio/Python/advanced/"/>
+         <xhtml:link rel="alternate" hreflang="jp" href="Nonejp/Biblio/Python/advanced/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/Biblio/Python/advanced/"/>
+         
+    </url>
+    <url>
+         <loc>NoneBiblio/Python/algorithm/</loc>
+         <lastmod>2023-01-07</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/Biblio/Python/algorithm/"/>
+         <xhtml:link rel="alternate" hreflang="jp" href="Nonejp/Biblio/Python/algorithm/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/Biblio/Python/algorithm/"/>
+         
+    </url>
+    <url>
+         <loc>NoneBiblio/Python/introduction/</loc>
+         <lastmod>2023-01-07</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/Biblio/Python/introduction/"/>
+         <xhtml:link rel="alternate" hreflang="jp" href="Nonejp/Biblio/Python/introduction/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/Biblio/Python/introduction/"/>
+         
+    </url>
+    <url>
+         <loc>NoneBiblio/Python/reduce/</loc>
+         <lastmod>2023-01-07</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/Biblio/Python/reduce/"/>
+         <xhtml:link rel="alternate" hreflang="jp" href="Nonejp/Biblio/Python/reduce/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/Biblio/Python/reduce/"/>
+         
+    </url>
+    <url>
+         <loc>NoneBiblio/SoftwareEngineering/api/</loc>
+         <lastmod>2023-01-07</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/Biblio/SoftwareEngineering/api/"/>
+         <xhtml:link rel="alternate" hreflang="jp" href="Nonejp/Biblio/SoftwareEngineering/api/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/Biblio/SoftwareEngineering/api/"/>
+         
+    </url>
+    <url>
+         <loc>NoneBiblio/SoftwareEngineering/oop/</loc>
+         <lastmod>2023-01-07</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/Biblio/SoftwareEngineering/oop/"/>
+         <xhtml:link rel="alternate" hreflang="jp" href="Nonejp/Biblio/SoftwareEngineering/oop/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/Biblio/SoftwareEngineering/oop/"/>
+         
+    </url>
+    <url>
+         <loc>Noneblog/airflow/</loc>
+         <lastmod>2023-01-07</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/blog/airflow/"/>
+         <xhtml:link rel="alternate" hreflang="jp" href="Nonejp/blog/airflow/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/blog/airflow/"/>
+         
+    </url>
+    <url>
+         <loc>Noneblog/babushka/</loc>
+         <lastmod>2023-01-07</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/blog/babushka/"/>
+         <xhtml:link rel="alternate" hreflang="jp" href="Nonejp/blog/babushka/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/blog/babushka/"/>
+         
+    </url>
+    <url>
+         <loc>Noneblog/beam/</loc>
+         <lastmod>2023-01-07</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/blog/beam/"/>
+         <xhtml:link rel="alternate" hreflang="jp" href="Nonejp/blog/beam/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/blog/beam/"/>
+         
+    </url>
+    <url>
+         <loc>Noneblog/kubeflow/</loc>
+         <lastmod>2023-01-07</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/blog/kubeflow/"/>
+         <xhtml:link rel="alternate" hreflang="jp" href="Nonejp/blog/kubeflow/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/blog/kubeflow/"/>
+         
+    </url>
+    <url>
+         <loc>Noneblog/tft_beam/</loc>
+         <lastmod>2023-01-07</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/blog/tft_beam/"/>
+         <xhtml:link rel="alternate" hreflang="jp" href="Nonejp/blog/tft_beam/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/blog/tft_beam/"/>
+         
+    </url>
+    <url>
+         <loc>Noneblog/data_engineer/data_engineer/</loc>
+         <lastmod>2023-01-07</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/blog/data_engineer/data_engineer/"/>
+         <xhtml:link rel="alternate" hreflang="jp" href="Nonejp/blog/data_engineer/data_engineer/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/blog/data_engineer/data_engineer/"/>
+         
+    </url>
+    <url>
+         <loc>Noneblog/data_engineer/data_mesh/</loc>
+         <lastmod>2023-01-07</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/blog/data_engineer/data_mesh/"/>
+         <xhtml:link rel="alternate" hreflang="jp" href="Nonejp/blog/data_engineer/data_mesh/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/blog/data_engineer/data_mesh/"/>
+         
+    </url>
+    <url>
+         <loc>Noneblog/data_engineer/datalake/</loc>
+         <lastmod>2023-01-07</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/blog/data_engineer/datalake/"/>
+         <xhtml:link rel="alternate" hreflang="jp" href="Nonejp/blog/data_engineer/datalake/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/blog/data_engineer/datalake/"/>
+         
+    </url>
+    <url>
+         <loc>Nonebreakroom/break/</loc>
+         <lastmod>2023-01-07</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/breakroom/break/"/>
+         <xhtml:link rel="alternate" hreflang="jp" href="Nonejp/breakroom/break/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/breakroom/break/"/>
+         
+    </url>
+    <url>
+         <loc>Nonebreakroom/france/</loc>
+         <lastmod>2023-01-07</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/breakroom/france/"/>
+         <xhtml:link rel="alternate" hreflang="jp" href="Nonejp/breakroom/france/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/breakroom/france/"/>
+         
+    </url>
+    <url>
+         <loc>Nonebreakroom/japan/</loc>
+         <lastmod>2023-01-07</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/breakroom/japan/"/>
+         <xhtml:link rel="alternate" hreflang="jp" href="Nonejp/breakroom/japan/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/breakroom/japan/"/>
+         
+    </url>
+    <url>
+         <loc>Nonebreakroom/turkey/</loc>
+         <lastmod>2023-01-07</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/breakroom/turkey/"/>
+         <xhtml:link rel="alternate" hreflang="jp" href="Nonejp/breakroom/turkey/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/breakroom/turkey/"/>
+         
+    </url>
+</urlset>
