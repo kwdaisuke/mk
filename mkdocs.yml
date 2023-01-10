@@ -77,6 +77,7 @@ markdown_extensions:
 # Page tree
 nav:
   - Home: index.md
+  - book: tensorflow.ipynb
   - Course: course.md
   - Biblio: 
       Main: Biblio/biblio.md
@@ -86,6 +87,7 @@ nav:
       SoftWare Engineering:
         API: Biblio/SoftwareEngineering/api.md
         Object Oriented Programming: Biblio/SoftwareEngineering/oop.md
+        SOLID: Biblio/SoftwareEngineering/solid.md
       Mathematics:
         KLDivergence: Biblio/Mathematics/KL_divergence.md
   - Blog:
@@ -104,3 +106,6 @@ nav:
     - Living in France: breakroom/france.md
   - About Daisuke Kuwabara: daisuke.md
                                    # Set language for search
+
+plugins:
+  - mkdocs-jupyter

@@ -3,7 +3,6 @@
 <p style="font-size:20px;color:#333;">Expert guidance and practical training in machine learning</p>
 </center>
 
-<iframe src="assets/code.html" width="800" height="600"></iframe>
 
 ---
 # <center>Who is this course for?</center>
