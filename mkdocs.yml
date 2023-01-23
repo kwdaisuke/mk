@@ -88,6 +88,7 @@ nav:
         API: Biblio/SoftwareEngineering/api.md
         Object Oriented Programming: Biblio/SoftwareEngineering/oop.md
         SOLID: Biblio/SoftwareEngineering/solid.md
+        Networking: Biblio/SoftwareEngineering/network.md
       Mathematics:
         KLDivergence: Biblio/Mathematics/KL_divergence.md
   - Blog:
@@ -109,3 +110,4 @@ nav:
 
 plugins:
   - mkdocs-jupyter
+  
