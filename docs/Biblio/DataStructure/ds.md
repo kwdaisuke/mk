@@ -8,15 +8,18 @@ In computer science, a data structure is a data organization, management, and st
 https://en.wikipedia.org/wiki/Data_structure
 
 ### Maps/Dictionaries
-[phonebook](https://github.com/kwdaisuke/Biblio/blob/main/Data%20Structure/phonebook.py) \
+[phonebook](https://github.com/kwdaisuke/Biblio/blob/main/Data%20Structure/phonebook.py) 
+
 [find sum](https://github.com/kwdaisuke/Biblio/blob/main/Data%20Structure/findsum.py)
 
 ### Linked Lists
 [linked list](https://github.com/kwdaisuke/Biblio/blob/main/Data%20Structure/linked_list.py)
 
 ### Trees
-[binary tree](https://github.com/kwdaisuke/Biblio/blob/main/Data%20Structure/binary_tree.py) \
-[is same tree](https://github.com/kwdaisuke/Biblio/blob/main/Data%20Structure/is_sametree.py) \
+[binary tree](https://github.com/kwdaisuke/Biblio/blob/main/Data%20Structure/binary_tree.py) 
+
+[is same tree](https://github.com/kwdaisuke/Biblio/blob/main/Data%20Structure/is_sametree.py) 
+
 [trie]()
 
 ### Stacks & Queues
@@ -24,7 +27,8 @@ https://en.wikipedia.org/wiki/Data_structure
 [valid parentheses](https://github.com/kwdaisuke/Biblio/blob/main/Data%20Structure/valid_parentheses.py)
 
 ### Heaps
-[priority queue](https://github.com/kwdaisuke/Biblio/blob/main/Data%20Structure/priority_queue.py) \
+[priority queue](https://github.com/kwdaisuke/Biblio/blob/main/Data%20Structure/priority_queue.py) 
+
 [heap](https://github.com/kwdaisuke/Biblio/blob/main/Data%20Structure/heap.py)
 
 ### Graphs
@@ -37,17 +41,19 @@ https://en.wikipedia.org/wiki/Data_structure
 
 ![](https://upload.wikimedia.org/wikipedia/commons/9/9c/Quicksort-example.gif)
 
-[merge sort](https://github.com/kwdaisuke/Biblio/blob/main/Data%20Structure/merge_sort.py) \
+[merge sort](https://github.com/kwdaisuke/Biblio/blob/main/Data%20Structure/merge_sort.py) 
+
 ![](https://upload.wikimedia.org/wikipedia/commons/c/cc/Merge-sort-example-300px.gif)
 
 [binary search](https://github.com/kwdaisuke/Biblio/blob/main/Data%20Structure/binary_search.py) 
 
 [swap sort](https://github.com/kwdaisuke/Biblio/blob/main/Data%20Structure/sort_swap.py)
 
-[heap sort]() \
+[heap sort]() 
 ![](https://d18l82el6cdm1i.cloudfront.net/uploads/uv9rgMfetq-heapsort-example.gif)
 
-[counting sort]() \
+[counting sort]() 
+
 ![](https://d18l82el6cdm1i.cloudfront.net/uploads/hrUDdYC7OH-countingsort.gif)
 
 ### Recursion & DP

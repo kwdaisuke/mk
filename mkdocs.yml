@@ -77,13 +77,15 @@ markdown_extensions:
 # Page tree
 nav:
   - Home: index.md
-  - book: tensorflow.ipynb
+  - Book: tensorflow.ipynb
   - Course: course.md
   - Biblio: 
       Main: Biblio/biblio.md
       Python:
         Introduction: Biblio/Python/introduction.md
       Data Structure: Biblio/DataStructure/ds.md
+      Tensorflow: 
+        Introduction: Biblio/Tensorflow/intro.md
       SoftWare Engineering:
         API: Biblio/SoftwareEngineering/api.md
         Object Oriented Programming: Biblio/SoftwareEngineering/oop.md
