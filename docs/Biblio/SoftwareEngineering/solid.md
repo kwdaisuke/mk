@@ -1,3 +1,4 @@
+Dependency Inversion
 ```py
 """
 Dependency Inversion Principle
@@ -70,7 +71,7 @@ class Spanner(Database):
         pass
 ```
 
-
+Liskov Substitution
 ```py
 """
 Liskov Substitution Principle
@@ -114,6 +115,7 @@ class Spanner(Database):
 
 ```
 
+Open-Closed
 ```py
 """
 Open-Closed Principle

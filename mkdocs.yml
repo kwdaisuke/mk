@@ -93,6 +93,8 @@ nav:
         Networking: Biblio/SoftwareEngineering/network.md
       Mathematics:
         KLDivergence: Biblio/Mathematics/KL_divergence.md
+      Data Engineering:
+        SQL: Biblio/DataEngineering/SQL.md
   - Blog:
     - Why Babushka?: blog/babushka.md
     - Data Engineer: 
