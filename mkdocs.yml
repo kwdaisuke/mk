@@ -22,11 +22,11 @@ theme:
     - header.autohide
 
 
-  
+
 
 # Customization
 extra:
-  analytics: 
+  analytics:
     provider: google
     property: G-180F37E220
     feedback:
@@ -56,7 +56,7 @@ plugins:
         en:
           name: English
           build: true
-        jp: 
+        jp:
           name: Japanese
           build: true
         fr:
@@ -79,39 +79,42 @@ nav:
   - Home: index.md
   - Book: tensorflow.ipynb
   - Course: course.md
-  - Biblio: 
-      Main: Biblio/biblio.md
+  - MLOps:
+      Main: MLOps/mlops.md
       Python:
-        Introduction: Biblio/Python/introduction.md
-      Data Structure: Biblio/DataStructure/ds.md
-      Tensorflow: 
-        Introduction: Biblio/Tensorflow/intro.md
+        Introduction: MLOps/Python/introduction.md
+        Async: MLOps/Python/async.py
+      MachineLearning:
+        Introduction: MLOps/MachineLearning/intro.md
       SoftWare Engineering:
-        API: Biblio/SoftwareEngineering/api.md
-        Object Oriented Programming: Biblio/SoftwareEngineering/oop.md
-        SOLID: Biblio/SoftwareEngineering/solid.md
-        Networking: Biblio/SoftwareEngineering/network.md
+        API: MLOps/SoftwareEngineering/api.md
+        Object Oriented Programming: MLOps/SoftwareEngineering/oop.md
+        SOLID: MLOps/SoftwareEngineering/solid.md
+        Networking: MLOps/SoftwareEngineering/network.md
+        Microservice: MLOps/SoftwareEngineering/microservice.md
+
+      Data Structure: MLOps/DataStructure/ds.md
       Mathematics:
-        KLDivergence: Biblio/Mathematics/KL_divergence.md
+        KLDivergence: MLOps/Mathematics/KL_divergence.md
       Data Engineering:
-        SQL: Biblio/DataEngineering/SQL.md
+        SQL: MLOps/DataEngineering/SQL.md
   - Blog:
     - Why Babushka?: blog/babushka.md
-    - Data Engineer: 
+    - ML: blog/ml.md
+    - Data Engineer:
         Data Engineer: blog/data_engineer/data_engineer.md
         Data Mesh: blog/data_engineer/data_mesh.md
     - Kubeflow: blog/kubeflow.md
     - Airflow: blog/airflow.md
     - Beam: blog/beam.md
     - Using Tensorflow Transform in Apache Beam: blog/tft_beam.md
-  - Break Room: 
+  - Break Room:
     - Find your ideal place: breakroom/break.md
     - Living in Japan: breakroom/japan.md
     - Living in Turkey: breakroom/turkey.md
     - Living in France: breakroom/france.md
   - About Daisuke Kuwabara: daisuke.md
-                                   # Set language for search
+# Set language for search
 
 plugins:
   - mkdocs-jupyter
-  
